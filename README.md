@@ -6,3 +6,5 @@ Day 1 : Revising Fundamentals of Python and its Data structure
 Day 2 : Flow Control and Functions of Python
 
 Day 3 : Numpy & Pandas  in Python
+
+Day 4 : Matplotlib
