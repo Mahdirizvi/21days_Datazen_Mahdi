@@ -10,3 +10,7 @@ Day 3 : Numpy & Pandas  in Python
 Day 4 : Matplotlib & Linear Regression
 
 Day 5 : Linear Regression
+
+Day 6 : Linear Regression & Logistic Regression
+
+Day 7 : Starting Flight Prediction Project 
