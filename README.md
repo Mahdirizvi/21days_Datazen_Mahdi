@@ -14,3 +14,8 @@ Day 5 : Linear Regression
 Day 6 : Linear Regression & Logistic Regression
 
 Day 7 : Starting Flight Prediction Project 
+
+Day 8 : Data Cleaning and Processing of Flight Prediction
+
+Day 9 : Train Data Processed and Ready
+
