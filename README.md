@@ -19,3 +19,6 @@ Day 8 : Data Cleaning and Processing of Flight Prediction
 
 Day 9 : Train Data Processed and Ready
 
+Day 10 : Edureka Machine Learrning Tutorial
+
+Day 11 : Classificatio and its Types
