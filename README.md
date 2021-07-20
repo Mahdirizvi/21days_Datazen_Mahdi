@@ -22,3 +22,5 @@ Day 9 : Train Data Processed and Ready
 Day 10 : Edureka Machine Learrning Tutorial
 
 Day 11 : Classificatio and its Types
+
+Day 12 : Statistics
