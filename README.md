@@ -24,3 +24,9 @@ Day 10 : Edureka Machine Learrning Tutorial
 Day 11 : Classification and its Types
 
 Day 12 : Statistics
+
+Day 13 : Edureka Data Science Tutorial
+
+Day 14 : KNN, Random Forest
+
+Day 15 : Naive Bias and Decision Tree
