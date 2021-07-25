@@ -30,3 +30,7 @@ Day 13 : Edureka Data Science Tutorial
 Day 14 : KNN, Random Forest
 
 Day 15 : Naive Bias and Decision Tree
+
+Day 16 : SVM and its concept
+
+Day 17 : Preprocessing Dataset
