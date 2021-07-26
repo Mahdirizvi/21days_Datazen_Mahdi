@@ -34,3 +34,5 @@ Day 15 : Naive Bias and Decision Tree
 Day 16 : SVM and its concept
 
 Day 17 : Probability & Hypothesis, Preprocessing Dataset
+
+Day 18 : Machine Learning
