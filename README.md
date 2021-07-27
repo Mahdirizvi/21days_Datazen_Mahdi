@@ -36,3 +36,5 @@ Day 16 : SVM and its concept
 Day 17 : Probability & Hypothesis, Preprocessing Dataset
 
 Day 18 : Machine Learning
+
+Day 19 : Logistic Regression
