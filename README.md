@@ -38,3 +38,7 @@ Day 17 : Probability & Hypothesis, Preprocessing Dataset
 Day 18 : Machine Learning
 
 Day 19 : Logistic Regression
+
+Day 20 : Analysis and Logistic Regression on Titani Data and Suv Data
+
+Day 21 : Classification and Decission Tree
